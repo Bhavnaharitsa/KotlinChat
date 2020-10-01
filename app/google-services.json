@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "359843210226",
+    "firebase_url": "https://kotlinchat-ddaf1.firebaseio.com",
+    "project_id": "kotlinchat-ddaf1",
+    "storage_bucket": "kotlinchat-ddaf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359843210226:android:93e1c58c3dbb1d2960816b",
+        "android_client_info": {
+          "package_name": "com.example.kotlinchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359843210226-sgo7tk5jqpts8trud90o2mfg9gnlol76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV0Zmk88vGYix5n_yUJfNHAMePQE9QcYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359843210226-sgo7tk5jqpts8trud90o2mfg9gnlol76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
